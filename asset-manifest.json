@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CoolEditor/static/css/main.37b5cb7b.css",
+    "main.js": "/CoolEditor/static/js/main.3684eea5.js",
+    "static/js/787.7b42e57e.chunk.js": "/CoolEditor/static/js/787.7b42e57e.chunk.js",
+    "index.html": "/CoolEditor/index.html",
+    "main.37b5cb7b.css.map": "/CoolEditor/static/css/main.37b5cb7b.css.map",
+    "main.3684eea5.js.map": "/CoolEditor/static/js/main.3684eea5.js.map",
+    "787.7b42e57e.chunk.js.map": "/CoolEditor/static/js/787.7b42e57e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37b5cb7b.css",
+    "static/js/main.3684eea5.js"
+  ]
+}
